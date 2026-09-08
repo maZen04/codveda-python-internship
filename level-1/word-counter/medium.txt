@@ -1,0 +1,4 @@
+Software development requires practice, patience, and problem solving.
+Python is commonly used for web development, automation, data analysis, and artificial intelligence.
+Writing small projects is a good way to understand programming concepts and improve coding skills.
+Clean code is easier to read, test, debug, and maintain.
